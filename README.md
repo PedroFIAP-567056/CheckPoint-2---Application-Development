@@ -40,12 +40,12 @@ Basta abrir o arquivo `index.html` em qualquer navegador.
 
 **Listagem completa**
 
-![Listagem completa dos atores e atrizes](snapshots/Captura%20de%20tela%20de%202026-09-29%2011-04-17.png)
+![Listagem completa dos atores e atrizes](snapshots/default.png)
 
 **Busca filtrando por "al"**
 
-![Busca filtrando pelo termo "al"](snapshots/Captura%20de%20tela%20de%202026-09-29%2011-04-27.png)
+![Busca filtrando pelo termo "al"](snapshots/filter.png)
 
 **Nenhum resultado encontrado**
 
-![Estado vazio da busca](snapshots/Captura%20de%20tela%20de%202026-09-29%2011-04-35.png)
+![Estado vazio da busca](snapshots/noresult.png)
